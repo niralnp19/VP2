@@ -1,1 +1,1 @@
-alert(404);
+alert()
